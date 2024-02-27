@@ -51,6 +51,8 @@ To get a local copy up and running, follow these steps:
 - write `git clone https://github.com/Ochiengsteven/hello-rails-react-frontend.git`
 - get into to directory `hello-rails-react-frontend`
 
+- ### Here is the repository for the Back-end: [Link](https://github.com/Ochiengsteven/hello-backend)
+
 ## 💻 Back end <a name="getting-started"></a>
 <br>
 
