@@ -118,4 +118,4 @@ I would like to extend my heartfelt gratitude to Microverse for providing me wit
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Ochiengsteven/hello-rails-react-frontend/blob/feature/LICENSE.md) licensed.
